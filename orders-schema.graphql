@@ -42,7 +42,7 @@ type Order @key(fields: "id") {
   total: Float
   
   """
-  The date the oder was made
+  The date the order was made
   """
   orderDate: String
 }
